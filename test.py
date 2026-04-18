@@ -1,5 +1,6 @@
 # 测试 1：基础输出
 print("✅ Python 环境配置成功！")
+print("hello world!!!")
 
 # 测试 2：简单计算
 a = 10
