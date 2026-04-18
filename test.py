@@ -1,5 +1,6 @@
 # 测试 1：基础输出
-print("✅ Python 环境配置成功！")
+print("✅ VS Code + Python 环境配置成功！")
+print("✅ Git 上传测试成功！")
 print("hello world!!!")
 
 # 测试 2：简单计算
@@ -30,4 +31,6 @@ if num > 0:
 else:
     print(f"\n{num} 不是正数")
 
+# 测试 6：新增上传标记
+print("\n🎉 代码已修改，准备上传 GitHub！")
 print("\n🎉 所有测试运行完成！")
